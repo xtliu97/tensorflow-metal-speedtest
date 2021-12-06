@@ -9,7 +9,7 @@ The test includes inference and training time of models below:
 
 
 ## Code
-The code is mainly borrowed from a [tensorflow tutorial](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/zh-cn/tutorials/images/transfer_learning.ipynb)  
+The code is based on [tensorflow tutorial](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/zh-cn/tutorials/images/transfer_learning.ipynb)  
 See Python Script `tf_test.py` ot notebook `tf_test.ipynb`.
 Google Colab link is also available [here](https://colab.research.google.com/drive/1LonSrTAdrbOZseOaz3WFLhOtsgunaulT?usp=sharing)
 
