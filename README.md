@@ -18,9 +18,11 @@ The script was executed on three devices
 - RTX 3060 (GPU Server)
 - Tesla K80 (Google Colab)
 
-Here are the results
 
+Here are the results
+- Inference time
 ![image](./imgs/inference.jpg "inference time")
+- Training time
 ![image](./imgs/training.jpg "training time")
 
 Apple M1 Pro chip performs a bit better than K80.
