@@ -1,5 +1,5 @@
 ## TensorFlow-metal test
-This repository is a brief test of [TensorFlow-metal[(https://developer.apple.com/metal/tensorflow-plugin/) on Apple M1 Pro chip.  
+This repository is a brief test of [TensorFlow-metal](https://developer.apple.com/metal/tensorflow-plugin/) on Apple M1 Pro chip.  
 The test includes inference and training time of models below:
 - MobileNet
 - ResNet50
@@ -18,9 +18,11 @@ The script was executed on three devices
 - RTX 3060 (GPU Server)
 - Tesla K80 (Google Colab)
 
-Here are the results
 
-![](../imgs/inference.jpg "inference time")
-![](../imgs/training.jpg "training time")
+Here are the results  
+- Inference time  
+![image](./imgs/inference.jpg "inference time")  
+- Training time  
+![image](./imgs/training.jpg "training time")
 
 Apple M1 Pro chip performs a bit better than K80.
