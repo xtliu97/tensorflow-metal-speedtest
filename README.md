@@ -20,7 +20,7 @@ The script was executed on three devices
 
 
 Here are the results  
-- Inference time
+- Inference time  
 ![image](./imgs/inference.jpg "inference time")  
 - Training time  
 ![image](./imgs/training.jpg "training time")
