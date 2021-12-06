@@ -1,5 +1,5 @@
 ## TensorFlow-metal test
-This repository is a brief test of [TensorFlow-metal[(https://developer.apple.com/metal/tensorflow-plugin/) on Apple M1 Pro chip.  
+This repository is a brief test of [TensorFlow-metal](https://developer.apple.com/metal/tensorflow-plugin/) on Apple M1 Pro chip.  
 The test includes inference and training time of models below:
 - MobileNet
 - ResNet50
