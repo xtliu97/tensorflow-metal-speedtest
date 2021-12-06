@@ -20,7 +20,7 @@ The script was executed on three devices
 
 Here are the results
 
-![image](../imgs/inference.jpg "inference time")
-![image](../imgs/training.jpg "training time")
+![image](./imgs/inference.jpg "inference time")
+![image](./imgs/training.jpg "training time")
 
 Apple M1 Pro chip performs a bit better than K80.
