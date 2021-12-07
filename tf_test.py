@@ -8,7 +8,7 @@ from tensorflow.keras.preprocessing import image_dataset_from_directory
 
 BATCH_SIZE = 32
 IMG_SIZE = (160, 160)
-AVILIABLE_MODELS = ["mobilenet", "resnet50", "resnet101", "resnet152", "inception_resnet_v2"]
+AVAILABLE_MODELS = ["mobilenet", "resnet50", "resnet101", "resnet152", "inception_resnet_v2"]
 
 
 def data_preparation():
@@ -132,5 +132,5 @@ def main(model_name, dataset):
 if __name__ == "__main__":
     all_dataset = data_preparation()
 
-    for model in AVILIABLE_MODELS:
+    for model in AVAILABLE_MODELS:
         main(model, all_dataset)
